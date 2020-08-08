@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial;
+}
+h1{
+    text-align: center;
+}
+h2 {
+    color: darkred;
+    text-align: center;
+}
+table {
+    border: 2px solid rgb(173, 173, 173);
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
+thead{
+    background-color: rgb(72, 0, 94);
+    color: mintcream;
+}
+td{
+    border-top: 1px solid darkorchid;
+}
+.code{
+    font-family: monospace;
+    background-color: floralwhite;
+}
